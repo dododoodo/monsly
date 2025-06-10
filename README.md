@@ -1,7 +1,7 @@
 # 📅 Monsly
 
-Flutter로 제작한 **간편 스케줄 관리 어플리케이션 'Monsly'**  
-사용자는 날짜별로 일정을 등록하고, 확인 및 삭제할 수 있으며, 로컬 DB를 통해 데이터를 저장합니다.
+Flutter로 제작한 **일정 관리 어플리케이션 'Monsly'**  
+사용자는 날짜별로 일정을 등록하고, 수정 및 삭제할 수 있으며, 로컬 DB를 통해 데이터를 저장합니다.
 
 ## ✨ 주요 기능
 
@@ -30,15 +30,12 @@ Flutter로 제작한 **간편 스케줄 관리 어플리케이션 'Monsly'**
 
 ## 🚀 배포
 
-본 프로젝트는 `Monsly`로 빌드 후, GitHub Pages를 통해 배포되었습니다.
-
 🔗 [👉 Monsly 배포 주소](https://monsly.vercel.app/)  
+본 프로젝트는 Vercel을 통해 배포되었습니다.
 
 ## 🖼️ 스크린샷
 
 | 메인 캘린더 | 일정 추가 | 일정 확인 |
 |-------------|------------|------------|
 | ![calendar](screenshots/calendar.png) | ![add](screenshots/add.png) | ![view](screenshots/view.png) |
-
-## 📁 프로젝트 구조 예시
 
