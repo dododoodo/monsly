@@ -1,7 +1,9 @@
+![thumbnail](https://github.com/user-attachments/assets/eb0be028-41c4-4e79-bf9b-cec0cdcb7fde)
+
 # 📅 Monsly
 
 Flutter로 제작한 **일정 관리 어플리케이션 'Monsly'**  
-사용자는 날짜별로 일정을 등록하고, 수정 및 삭제할 수 있으며, 로컬 DB를 통해 데이터를 저장합니다.
+사용자는 날짜별로 일정을 등록하고, 수정 및 삭제할 수 있으며, 로컬 DB를 통해 사용자의 일정 데이터를 저장합니다.
 
 ## 🖊️ 주요 기능
 
@@ -30,12 +32,17 @@ Flutter로 제작한 **일정 관리 어플리케이션 'Monsly'**
 
 ## 🚀 배포
 
-🔗 [👉 Monsly 배포 주소](https://monsly.vercel.app/)  
+🔗 [Monsly 배포 주소](https://monsly.vercel.app/)  
 본 프로젝트는 Vercel을 통해 배포되었습니다.
 
 ## 🖼️ 스크린샷
 
-| 메인 캘린더 | 일정 추가 | 일정 확인 |
+![thumbnail2](https://github.com/user-attachments/assets/1a52d13a-4a85-4db6-964b-175ada835a35)
+
+| 메인 캘린더 | 일정 추가 | 일정 확인(홈) |
 |-------------|------------|------------|
-| ![calendar](screenshots/calendar.png) | ![add](screenshots/add.png) | ![view](screenshots/view.png) |
+| ![calendar_page_1](https://github.com/user-attachments/assets/2346819e-3507-48f6-b933-a3f0c9e2b871) | ![calendar_page_2](https://github.com/user-attachments/assets/a5202a9d-ca6e-4aa8-b95d-6221683db5c7) | ![Main_page](https://github.com/user-attachments/assets/804001d0-41f4-4501-8f11-4f319371af12) |
+
+
+
 
